@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark">#FF2C3E50</color>
+    <color name="primary">#FF637DC6</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">PIRANTI-EVALUASI2</string>
+    <string name="channel_description">Your Channel Description</string>
+    <string name="channel_name">Alarm</string>
+    <string name="firebase_database_url" translatable="false">https://tugasbesar-b8486-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">266324764747</string>
+    <string name="google_api_key" translatable="false">AIzaSyBKHvivEay8N6s12SHuH6y74nLRTrKAvx0</string>
+    <string name="google_app_id" translatable="false">1:266324764747:android:9558ad079abe667ed645ce</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBKHvivEay8N6s12SHuH6y74nLRTrKAvx0</string>
+    <string name="google_storage_bucket" translatable="false">tugasbesar-b8486.appspot.com</string>
+    <string name="message">message</string>
+    <string name="project_id" translatable="false">tugasbesar-b8486</string>
+    <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+</resources>
