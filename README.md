@@ -11,4 +11,6 @@ ini halaman utama nya adalah
 - Telpon
 - Notifikasi
 - RestAPI
+- Alaram
 - Logout
+
